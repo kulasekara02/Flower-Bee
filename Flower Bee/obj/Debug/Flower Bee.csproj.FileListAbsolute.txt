@@ -1,0 +1,15 @@
+D:\ICBT\Flower Bee\Flower Bee\obj\Debug\Flower_Bee.Customer.resources
+D:\ICBT\Flower Bee\Flower Bee\obj\Debug\Flower_Bee.Employee.resources
+D:\ICBT\Flower Bee\Flower Bee\obj\Debug\Flower_Bee.Invoice.resources
+D:\ICBT\Flower Bee\Flower Bee\obj\Debug\Flower_Bee.Login.resources
+D:\ICBT\Flower Bee\Flower Bee\obj\Debug\Flower_Bee.MainMenu.resources
+D:\ICBT\Flower Bee\Flower Bee\obj\Debug\Flower_Bee.Product.resources
+D:\ICBT\Flower Bee\Flower Bee\obj\Debug\Flower_Bee.Properties.Resources.resources
+D:\ICBT\Flower Bee\Flower Bee\obj\Debug\Flower_Bee.Supplyer.resources
+D:\ICBT\Flower Bee\Flower Bee\obj\Debug\Flower Bee.csproj.GenerateResource.Cache
+D:\ICBT\Flower Bee\Flower Bee\bin\Debug\Flower Bee.exe.config
+D:\ICBT\Flower Bee\Flower Bee\bin\Debug\Flower Bee.exe
+D:\ICBT\Flower Bee\Flower Bee\bin\Debug\Flower Bee.pdb
+D:\ICBT\Flower Bee\Flower Bee\obj\Debug\Flower Bee.exe
+D:\ICBT\Flower Bee\Flower Bee\obj\Debug\Flower Bee.pdb
+D:\ICBT\Flower Bee\Flower Bee\obj\Debug\Flower Bee.csprojResolveAssemblyReference.cache
